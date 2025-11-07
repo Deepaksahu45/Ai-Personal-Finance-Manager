@@ -27,7 +27,7 @@ export default async function RootLayout({ children }) {
           <Toaster richColors />
           <footer className="bg-blue-50 py-12">
             <div className="container mx-auto px-4 text-center text-gray-600">
-              <p>Made By Deepak & Group</p>
+              <p>Made By Code Blooded Team</p>
             </div>
           </footer>
         </body>
